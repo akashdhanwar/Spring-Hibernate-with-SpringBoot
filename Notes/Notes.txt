@@ -1,1 +1,33 @@
+1) INTRODUCTION -
+    http://www.luv2code.com/download-spring-hibernate-pdfs
+    http://www.luv2code.com/download-spring-hibernate-faq-notes
 
+2) SPRING OVERVIEW -
+    Why Spring          -   EJB were complex with poor performance, Hence J2EE without EJB was required
+                            1993-2001   EJB were popular
+                            2004-2016   Spring was popular
+                            2016-Now    J2EE(Java EE) and Spring are popular. Learn both
+                            2017        Spring-5 released, Minimum Java 8 required
+                                        Spring-6 released, Minimum Java 17 required
+                                        Removed some old support
+                                        Servlet API 4.0, Spring WebFlux added 
+                                        http://www.luv2code.com/spring-5-whats-new
+    https://www.spring.io 
+    Goals of Spring     -   Lightweight development with POJO(Plain Old Java Objects)
+                            Dependency Injection to promote loose coupling
+                            Declarative Programming with AOP(Aspect-Oriented-Programming)
+                            Minimize Java Code
+    
+3) SETTING ENVIRONMENT -
+    Softwares           -   JDK 
+                            Java App Sever (Tomcat) -   http://tomcat.apache.org
+                            IDE (Eclipse)
+    High-Level Steps
+    
+
+
+
+
+
+Lec-14
+J2EE
